@@ -25,10 +25,6 @@
       "APP_URL": "https://yourprojectdomain.com",
       "APP_KEY": "base64:SeM/57vNbKfaPqcS/UxWzrUOHyAv0e4twtlv1XxaYkc=",
       "APP_CONFIG_CACHE": "/tmp/config.php"
-    },
-    "functions": {
-        "api/index.php": {
-            "runtime": "vercel-php@0.6.1"
-        }
+
     }
   }
